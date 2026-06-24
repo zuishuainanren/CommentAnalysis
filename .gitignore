@@ -1,0 +1,21 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.pyd
+
+.vscode/
+
+# 历史文件
+0.HistoryFile/
+
+# 数据集
+datasets/
+
+# 模型
+models/
+
+# 特定权重
+svm_weight/
+
+#
+predict/
