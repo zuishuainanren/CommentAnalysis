@@ -358,11 +358,11 @@ Gradio
 
 ### 系统首页
 
-
+![alt text](image-1.png)
 
 ### 情感分析结果
 
-
+![alt text](image-2.png)
 
 ---
 
